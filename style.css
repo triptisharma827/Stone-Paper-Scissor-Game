@@ -1,0 +1,71 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+  }
+
+  .players {
+    text-align: center;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+  
+  }
+  body {
+    background-color: #354042;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #084b53;
+    font-size: 5rem;
+    color: #3d929b;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #0fd2e0;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+  }
+  .btn{
+    margin: 1% 45%;
+    height: 60px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 1.9rem;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    background-color: #052225;
+    color: #90cae7;
+  }
+  .btn:hover {
+    background: #569197;
+  }
+
+           
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: bold;
+  }
+
+  
